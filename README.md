@@ -24,3 +24,8 @@ A simple console-based Insurance Company Management System written in C, allowin
 
 1.  Run the program and select your role (administrator, agent, or customer)
 2.  Follow the prompts to perform tasks
+
+## Notice
+
+*  May you need to create some files to make roles run as it should be
+*  This program is very basic one as a first program, so may you find some bugs 
